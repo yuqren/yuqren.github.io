@@ -1,2 +1,2 @@
 # Yuqing Ren's Homepage
-[https://yuqingren.github.io](https://yuqingren.github.io)
+[https://yuqren.github.io](https://yuqren.github.io)
